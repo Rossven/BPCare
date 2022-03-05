@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "/Users/rossven/Projects/BPCare/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/rossven/Projects/BPCare/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/rossven/Projects/BPCare/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/rossven/Projects/BPCare/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/rossven/Projects/BPCare/app/build/intermediates/merged_res/debug/menu_my_menu.xml.flat",
+        "source": "/Users/rossven/Projects/BPCare/app/src/main/res/menu/my_menu.xml"
+    },
+    {
+        "merged": "/Users/rossven/Projects/BPCare/app/build/intermediates/merged_res/debug/drawable_hearth.png.flat",
+        "source": "/Users/rossven/Projects/BPCare/app/src/main/res/drawable/hearth.png"
+    },
+    {
+        "merged": "/Users/rossven/Projects/BPCare/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/rossven/Projects/BPCare/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/rossven/Projects/BPCare/app/build/intermediates/merged_res/debug/layout_my_row.xml.flat",
+        "source": "/Users/rossven/Projects/BPCare/app/src/main/res/layout/my_row.xml"
+    },
+    {
+        "merged": "/Users/rossven/Projects/BPCare/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/rossven/Projects/BPCare/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/rossven/Projects/BPCare/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/rossven/Projects/BPCare/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/rossven/Projects/BPCare/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/rossven/Projects/BPCare/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/rossven/Projects/BPCare/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/rossven/Projects/BPCare/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/rossven/Projects/BPCare/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/rossven/Projects/BPCare/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/rossven/Projects/BPCare/app/build/intermediates/merged_res/debug/drawable_ic_delete.xml.flat",
+        "source": "/Users/rossven/Projects/BPCare/app/src/main/res/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "/Users/rossven/Projects/BPCare/app/build/intermediates/merged_res/debug/layout_satir.xml.flat",
+        "source": "/Users/rossven/Projects/BPCare/app/src/main/res/layout/satir.xml"
+    },
+    {
+        "merged": "/Users/rossven/Projects/BPCare/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/rossven/Projects/BPCare/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/rossven/Projects/BPCare/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/rossven/Projects/BPCare/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/rossven/Projects/BPCare/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/rossven/Projects/BPCare/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/rossven/Projects/BPCare/app/build/intermediates/merged_res/debug/drawable_bp.png.flat",
+        "source": "/Users/rossven/Projects/BPCare/app/src/main/res/drawable/bp.png"
+    },
+    {
+        "merged": "/Users/rossven/Projects/BPCare/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/rossven/Projects/BPCare/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/rossven/Projects/BPCare/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/rossven/Projects/BPCare/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/rossven/Projects/BPCare/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/rossven/Projects/BPCare/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/rossven/Projects/BPCare/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/rossven/Projects/BPCare/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/rossven/Projects/BPCare/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/rossven/Projects/BPCare/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/rossven/Projects/BPCare/app/build/intermediates/merged_res/debug/drawable_roundcorner.xml.flat",
+        "source": "/Users/rossven/Projects/BPCare/app/src/main/res/drawable/roundcorner.xml"
+    },
+    {
+        "merged": "/Users/rossven/Projects/BPCare/app/build/intermediates/merged_res/debug/drawable_hss.png.flat",
+        "source": "/Users/rossven/Projects/BPCare/app/src/main/res/drawable/hss.png"
+    },
+    {
+        "merged": "/Users/rossven/Projects/BPCare/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/rossven/Projects/BPCare/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/rossven/Projects/BPCare/app/build/intermediates/merged_res/debug/layout_activity_data_view.xml.flat",
+        "source": "/Users/rossven/Projects/BPCare/app/src/main/res/layout/activity_data_view.xml"
+    },
+    {
+        "merged": "/Users/rossven/Projects/BPCare/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/rossven/Projects/BPCare/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/rossven/Projects/BPCare/app/build/intermediates/merged_res/debug/drawable_hs.png.flat",
+        "source": "/Users/rossven/Projects/BPCare/app/src/main/res/drawable/hs.png"
+    },
+    {
+        "merged": "/Users/rossven/Projects/BPCare/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/rossven/Projects/BPCare/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/rossven/Projects/BPCare/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/rossven/Projects/BPCare/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

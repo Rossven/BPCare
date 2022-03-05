@@ -1,0 +1,29 @@
+com/rossven/healty/DataAccess.java
+ com.rossven.healty.DataAccess
+com/rossven/healty/BuildConfig.java
+ com.rossven.healty.BuildConfig
+com/rossven/healty/databinding/ActivityDataViewBinding.java
+ com.rossven.healty.databinding.ActivityDataViewBinding
+com/rossven/healty/CustomAdapter.java
+ com.rossven.healty.CustomAdapter
+ com.rossven.healty.CustomAdapter$MyViewHolder
+com/rossven/healty/databinding/SatirBinding.java
+ com.rossven.healty.databinding.SatirBinding
+com/rossven/healty/RateService.java
+ com.rossven.healty.RateService
+com/rossven/healty/databinding/MyRowBinding.java
+ com.rossven.healty.databinding.MyRowBinding
+com/rossven/healty/DataView.java
+ com.rossven.healty.DataView
+ com.rossven.healty.DataView$1
+ com.rossven.healty.DataView$2
+com/rossven/healty/Informations.java
+ com.rossven.healty.Informations
+com/rossven/healty/databinding/ActivityMainBinding.java
+ com.rossven.healty.databinding.ActivityMainBinding
+com/rossven/healty/DataAccessHelper.java
+ com.rossven.healty.DataAccessHelper
+com/rossven/healty/MainActivity.java
+ com.rossven.healty.MainActivity
+ com.rossven.healty.MainActivity$1
+ com.rossven.healty.MainActivity$2
